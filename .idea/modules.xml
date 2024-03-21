@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Core_Java_Coding_Practice.iml" filepath="$PROJECT_DIR$/Core_Java_Coding_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8_practice/Java8_practice.iml" filepath="$PROJECT_DIR$/Java8_practice/Java8_practice.iml" />
+    </modules>
+  </component>
+</project>
