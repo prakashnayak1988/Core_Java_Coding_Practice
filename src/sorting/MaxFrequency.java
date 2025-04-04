@@ -16,7 +16,7 @@ public class MaxFrequency {
     }
 
     public static void main(String[] args) {
-        int[] array = {1, 3, 2, 3, 4, 4, 4,4,5,5,6,6,6,3,3,3,3};
+        int[] array = {1, 2, 4, 4, 4,4,5,5,6,6,6,6};
         System.out.println("Frequency of maximum value: " + frequencyOfMaxValue(array));
     }
 }
