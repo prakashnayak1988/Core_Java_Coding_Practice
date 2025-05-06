@@ -9,5 +9,7 @@ public class MultiThreadingDemo {
         RunnableInterfaceDemo ri = new RunnableInterfaceDemo();
         Thread th = new Thread(ri);
         th.start();
+
+
     }
 }
